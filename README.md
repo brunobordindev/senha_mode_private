@@ -2,7 +2,7 @@
 
 Escrevendo em modo privado, para senha
 
-<img src="https://user-images.githubusercontent.com/72177982/212961720-7a467a17-4e50-4dd9-bcdf-549028284912.png)" width="25%">
+<img src="https://user-images.githubusercontent.com/72177982/212961720-7a467a17-4e50-4dd9-bcdf-549028284912.png" width="25%">
 
 
 ## MainActivity
